@@ -1,3 +1,2 @@
-# CABES HEALTH FACILITY FACILITATOR 
-Hello /n
-I am a student of CABES 
+# CABES HEALTH FACILITY FACILITATOR (CHEFLA)
+## It enables people to locate health facilities in their areas
